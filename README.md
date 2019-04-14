@@ -11,3 +11,9 @@
 ## Using attributes
 ### 2017
 * Verma, V. K., & Rai, P. (2017, September). [A simple exponential family framework for zero-shot learning](https://arxiv.org/pdf/1707.08040.pdf). In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 792-808). Springer, Cham.
+
+* Kodirov, E. , Xiang, T. , & Gong, S. . (2017). [Semantic autoencoder for zero-shot learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf).   [code](https://elyorcv.github.io/projects/sae)
+
+
+## Basic
+* Lampert, C. H. , Nickisch, H. , & Harmeling, S. . (2014). [Attribute-based classification for zero-shot visual object categorization](http://pub.ist.ac.at/~chl/papers/lampert-pami2013.pdf).. IEEE Computer Society.
