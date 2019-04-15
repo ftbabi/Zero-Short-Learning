@@ -14,6 +14,9 @@
 
 * Kodirov, E. , Xiang, T. , & Gong, S. . (2017). [Semantic autoencoder for zero-shot learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf).   [code](https://elyorcv.github.io/projects/sae)
 
+### 2015
+* Akata, Z. , Perronnin, F. , Harchaoui, Z. , & Schmid, C. . (2015). [Label-embedding for image classification](http://de.arxiv.org/pdf/1503.08677). IEEE Transactions on Pattern Analysis & Machine Intelligence, 38(7), 1425-1438.
+
 
 ## Basic
 * Lampert, C. H. , Nickisch, H. , & Harmeling, S. . (2014). [Attribute-based classification for zero-shot visual object categorization](http://pub.ist.ac.at/~chl/papers/lampert-pami2013.pdf).. IEEE Computer Society.
