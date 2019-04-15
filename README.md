@@ -15,6 +15,8 @@
 * Kodirov, E. , Xiang, T. , & Gong, S. . (2017). [Semantic autoencoder for zero-shot learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf).   [code](https://elyorcv.github.io/projects/sae)
 
 ### 2015
+* Akata, Z. , Reed, S. , Walter, D. , Lee, H. , & Schiele, B. . (2014). [Evaluation of output embeddings for fine-grained image classification](https://arxiv.org/pdf/1409.8403.pdf).  (This is similar to the following paper(ALE), but is better than it)
+
 * Akata, Z. , Perronnin, F. , Harchaoui, Z. , & Schmid, C. . (2015). [Label-embedding for image classification](http://de.arxiv.org/pdf/1503.08677). IEEE Transactions on Pattern Analysis & Machine Intelligence, 38(7), 1425-1438.
 
 
