@@ -14,6 +14,8 @@
 
 * Kodirov, E. , Xiang, T. , & Gong, S. . (2017). [Semantic autoencoder for zero-shot learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf).   [code](https://elyorcv.github.io/projects/sae)
 
+* Changpinyo, S. , Chao, W. L. , & Sha, F. . (2016). [Predicting visual exemplars of unseen classes for zero-shot learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237638&tag=1).
+
 ### 2015
 * Akata, Z. , Reed, S. , Walter, D. , Lee, H. , & Schiele, B. . (2014). [Evaluation of output embeddings for fine-grained image classification](https://arxiv.org/pdf/1409.8403.pdf).  (This is similar to the following paper(ALE), but is better than it)
 
@@ -22,3 +24,6 @@
 
 ## Basic
 * Lampert, C. H. , Nickisch, H. , & Harmeling, S. . (2014). [Attribute-based classification for zero-shot visual object categorization](http://pub.ist.ac.at/~chl/papers/lampert-pami2013.pdf).. IEEE Computer Society.
+
+## DataSet
+* Patterson, G. , & Hays, J. . (2012). [IEEE 2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) - Providence, RI (2012.06.16-2012.06.21)] 2012 IEEE Conference on Computer Vision and Pattern Recognition - [SUN attribute database: Discovering, annotating, and recognizing scene attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6247998&tag=1). 2012 IEEE Conference on Computer Vision and Pattern Recognition (pp.2751-2758). IEEE Computer Society.
